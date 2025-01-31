@@ -39,3 +39,7 @@ There are two directories for each behavioral and fMRI experiment where the stru
 ### 5. `param_fit_comparison.m`
 - Compares the fit parameters from the original performance-based model and the reduced performance-based models.
 
+
+## fMRI data
+
+WIP
