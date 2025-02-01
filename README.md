@@ -11,6 +11,7 @@ There are two directories for each behavioral and fMRI experiment where the stru
 
 ### `data`
 - Raw `.pkl` files and processed `.json` files of choice and reaction times are provided.
+- Also can be downloaded in [OSF](https://osf.io/cvukp/?view_only=f2bd9f66ad604de09368eeec59996ea1)
 
 ### `model_fitting`
 - We provide a CBM-based model fitting file used for the computational model fitting.
