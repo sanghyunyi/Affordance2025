@@ -6,6 +6,10 @@ There are two directories for each behavioral and fMRI experiment where the stru
 
 ## Directories
 
+### `analysis`
+- Analysis codes used to generate the plots for the paper.
+- The `lap_out` directory (for storing model fitting results) and the `model_based_var` directory (for storing model-based variables and simulation results) in `model_fitting`, generated from running `model_fitting`, are needed to perform computational model analysis.
+
 ### `bandit_task`
 - The PsychoPy code for running the behavioral/fMRI experiment.
 
@@ -26,9 +30,11 @@ There are two directories for each behavioral and fMRI experiment where the stru
 
 ### 1. `indiv_fit_par_all.m`
 - Fits all models to the data.
+- Saves results in `lap_out`
 
 ### 2. `model_based_var_generate.m` or `model_based_var_generate_simulation.m`
 - Conducts a posterior predictive check or generates model-based variables given the fit parameters.
+- Saves results in `model_based_var`
 
 ### 3. `generate_simulated_data_using_models.m` and `model_recov.m`
 - Simulates models using the fit parameters and performs model recovery analysis.
