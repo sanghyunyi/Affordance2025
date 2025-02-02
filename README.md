@@ -26,6 +26,7 @@ There are two directories for each behavioral and fMRI experiment where the stru
 
 ### `model_fitting`
 - We provide a CBM-based model fitting file used for the computational model fitting.
+- Can also be downloaded from [OSF](https://osf.io/cvukp/?view_only=f2bd9f66ad604de09368eeec59996ea1) with the fit results (`lap_out`) and model-based variables and simulation results (`model_based_var`)
 
 ### `model_fitting/models`
 - Model implementations. Any model name with `_2` in it refers to the reduced model.
