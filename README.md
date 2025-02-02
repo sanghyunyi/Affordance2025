@@ -1,6 +1,4 @@
-# Affordance2025
-
-## Computational and Neural Mechanisms Underlying the Influence of Action Affordances on Value Learning
+# Computational and Neural Mechanisms Underlying the Influence of Action Affordances on Value Learning
 
 This repository contains resources and materials related to our study on the computational and neural mechanisms by which action affordances shape value learning.
 
@@ -80,7 +78,8 @@ If you use or reference this work, please cite the preprint appropriately.
 	URL = {https://www.biorxiv.org/content/early/2024/03/06/2023.07.21.550102},
 	eprint = {https://www.biorxiv.org/content/early/2024/03/06/2023.07.21.550102.full.pdf},
 	journal = {bioRxiv}
-}```
+}
+```
 
 ### Contact
 
