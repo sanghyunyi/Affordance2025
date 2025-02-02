@@ -1,10 +1,19 @@
 # Affordance2025
 
-Computational and neural mechanisms underlying the influence of action affordances on value learning.
+## Computational and Neural Mechanisms Underlying the Influence of Action Affordances on Value Learning
 
-There are two directories for each behavioral and fMRI experiment where the structures are identical.
+This repository contains resources and materials related to our study on the computational and neural mechanisms by which action affordances shape value learning.
+
+### Preprint
+
+The preprint of our study is available on bioRxiv:
+
+📄 [Affordance2025 Preprint](https://www.biorxiv.org/content/10.1101/2023.07.21.550102v3.abstract)
+
+---
 
 ## Directories
+There are two directories for each behavioral and fMRI experiment where the structures are identical.
 
 ### `analysis`
 - Analysis codes used to generate the plots for the paper.
@@ -22,6 +31,8 @@ There are two directories for each behavioral and fMRI experiment where the stru
 
 ### `model_fitting/models`
 - Model implementations. Any model name with `_2` in it refers to the reduced model.
+
+---
 
 ## How to Run
 
@@ -46,7 +57,33 @@ There are two directories for each behavioral and fMRI experiment where the stru
 ### 5. `param_fit_comparison.m`
 - Compares the fit parameters from the original performance-based model and the reduced performance-based models.
 
+---
 
 ## fMRI data
 
 WIP
+
+---
+
+### Citation
+
+If you use or reference this work, please cite the preprint appropriately.
+
+```bibtex
+@article {Yi2023.07.21.550102,
+	author = {Yi, Sanghyun and O{\textquoteright}Doherty, John P.},
+	title = {Computational and neural mechanisms underlying the influence of action affordances on value learning},
+	elocation-id = {2023.07.21.550102},
+	year = {2024},
+	doi = {10.1101/2023.07.21.550102},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2024/03/06/2023.07.21.550102},
+	eprint = {https://www.biorxiv.org/content/early/2024/03/06/2023.07.21.550102.full.pdf},
+	journal = {bioRxiv}
+}```
+
+### Contact
+
+For any questions or collaborations, feel free to reach out.
+
+
