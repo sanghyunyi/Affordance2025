@@ -60,7 +60,7 @@ There are two directories for each behavioral and fMRI experiment where the stru
 
 ## fMRI data
 
-WIP
+The group level z-statistic maps are provided on [NeuroVault](https://neurovault.org/collections/22137/)
 
 ---
 
